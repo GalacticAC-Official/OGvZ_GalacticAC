@@ -8,9 +8,8 @@
 # Last Modified On: 2023.07.04
 # Last Modified By: GalacticAC
 #
-# Credit to:
 #
-# Comments: The functions and disks that call this function have been disabled
+# Comments:
 # -------------------------------------------
 
 tag @s[tag=!selectedclass] remove nopill
